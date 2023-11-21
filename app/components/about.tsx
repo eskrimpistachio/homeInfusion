@@ -61,7 +61,7 @@ const About = () => {
             <div className="relative h-[260px] w-[260px] bg-contain bg-no-repeat">
               <div className="h-full w-full flex justify-center items-center">
                 <Image
-                  src="https://res.cloudinary.com/dnyrrcacd/image/upload/v1695276956/BEM/IT_PARTNERSHIP/doct_hdewfk.svg"
+                  src="/../../public/assets/house_bkvtnl.svg"
                   alt="Background Image"
                   className="absolute brightness-50 top-0 left-0 w-full h-full scale-125"
                   width={500}
